@@ -1,4 +1,4 @@
-# Week4_project
+# Week4_ROI_Project
 ROI calculator - OOP
 
 This project I created a Rental Property calulator that allows different users to calculate their 'Retunr On Investment' (ROI) for their different properties.
